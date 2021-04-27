@@ -1,14 +1,36 @@
 {
-    "products" : [
-        {
-            "id": 1,
-            "date": "2021-01-12T03:20:41.718Z",
-            "name": "Meja Lipat",
-            "serial": 1682697,
-            "stock": 6,
-            "category": "Furniture",
-            "price": 567890,
-            "status": "avaiable"
-          }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "date": "2021-01-12T03:20:41.718Z",
+      "name": "Meja Lipat",
+      "serial": 1682697,
+      "stock": 6,
+      "category": "Furniture",
+      "price": 567890,
+      "status": "avaiable"
+    },
+    {
+      "name": "tree",
+      "price": 344,
+      "date": 1619512390091,
+      "category": "handphone",
+      "status": "available",
+      "id": 2
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@mail.com",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "name": "user",
+      "email": "user@mail.com",
+      "password": "1234"
+    }
+  ]
 }
